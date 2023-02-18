@@ -17,8 +17,9 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
-</p>
-
+<!--
+뱃지 링크: https://simpleicons.org/?q=css  (여기서, 색 이름이랑 이미지 이름만 만져와서 변경시켜주면 됨)
+-->
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=An-jisu&theme=tokyonight&show_icons=true" width="42%" />
 </a>
