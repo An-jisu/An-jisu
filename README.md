@@ -7,7 +7,8 @@
 안녕하세요. 저는 개발자를 꿈꾸는 안지수입니다.
 
 ## 🎀 Link
-[Blog: (https://velog.io/@asj1966)](https://velog.io/@asj1966)
+[Blog: (https://velog.io/@asj1966)](https://velog.io/@asj1966)<br>
+이 곳에는 제가 공부하는 내용들을 기록하고 있습니다.
 
 ## ✔ Tech stack
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a><t>
