@@ -59,15 +59,20 @@
 |동아리|2023.03 ~ 2023.08|UMC 4기(프론트)|컴공선배 너디너리|
 |대학교|2022.07 ~ 2022.12|교환학생 (미국)|University of Central Missouri (computer science)|
 |활동|2022.03 ~ 2023.12|중학생 대상 코딩 교육|사피엔스 4.0|
+|동아리|2020.03 ~ 2022.07|과 학생회 기획부|상명대학교|
 |동아리|2020.03 ~ 2023.03|IT동아리 이니로|상명대학교|
 |대학교|2020.03 ~ 2024.02|휴먼지능정보공학과|상명대학교|
 
 ## 🖥️ Project
-|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|Link|Date|Content|Subject|
+|------|---|---|---|
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|
+|<a href="https://github.com/An-jisu/Netflix_clone_coding"> Netflix_clone_coding </a>|테스트2|테스트3|테스트3|
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|2021.07 ~ 2021.11|테스트3|테스트3|
 
 ## 🏫 Study $ Tutoring
 |제목|내용|설명|
