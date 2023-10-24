@@ -4,13 +4,27 @@
 
 
 ## 🎁 Introduction
-안녕하세요. 저는 개발자를 꿈꾸는 안지수입니다.
+<h4>안녕하세요 :)
+<p>주니어 Frontend 개발자 안지수입니다!</h4>
+입력한대로 출력이 나오는 프로그래밍의 매력에 빠졌습니다. <br>
+저는 커뮤니케이션을 잘하는, 글로벌한 프론트엔드 개발자가 되고 싶습니다. <br>
+교환학생과 실리콘벨리 프로그램에 참여하며, 글로벌 인재가 되기 위해 도전을 해 왔고,<br>
+다양한 사람들과 다양한 프로젝트를 수행하며 소통을 잘 하는,<br>
+협업에 능숙한 개발자가 되기 위해 노력 해왔습니다.<br>
+글로벌한 환경에서 다양한 인재와 함께 일하고 배울 기회를 찾겠습니다.<br></p><br>
 
 ## 🎀 Link
-[Blog: (https://velog.io/@asj1966)](https://velog.io/@asj1966)<br>
-이 곳에는 제가 공부하는 내용들을 기록하고 있습니다.
+<p>
+    <Strong>🏫 기술 블로그 🏫</Strong><br>
+    <a href="https://velog.io/@asj1966"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<br><br>
+<Strong>📧EMAIL📧</Strong><br>anjisu2001@naver.com<br><br>
+<Strong>💪Portfolio💪</Strong><br>
+<a href="http://jisoo-ahn-portfolio.s3-website.ap-northeast-2.amazonaws.com/"> http://jisoo-ahn-portfolio.s3-website.ap-northeast-2.amazonaws.com/</a>
+</p><br>
 
-## ✔ Tech stack
+
+## ⚒️ Tech stack
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -32,11 +46,22 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a><br><br>
 <!--
 뱃지 링크: https://simpleicons.org/?q=css  (여기서, 색 이름이랑 이미지 이름만 만져와서 변경시켜주면 됨)
 -->
+
+
+## 🏃‍♀️ Carrer
+
+
+## 🖥️ Project
+
+
+## 🏫 Study $ Tutoring
+
+
+  
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=An-jisu&theme=tokyonight&show_icons=true" width="42%" />
 </a>
