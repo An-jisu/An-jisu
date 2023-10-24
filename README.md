@@ -17,11 +17,11 @@
 <p>
     <Strong>🏫 기술 블로그 🏫</Strong><br>
     <a href="https://velog.io/@asj1966"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<br><br>
-<Strong>📧EMAIL📧</Strong><br>anjisu2001@naver.com<br><br>
-<Strong>💪Portfolio💪</Strong><br>
-<a href="http://jisoo-ahn-portfolio.s3-website.ap-northeast-2.amazonaws.com/"> http://jisoo-ahn-portfolio.s3-website.ap-northeast-2.amazonaws.com/</a>
-</p><br>
+    <br><br>
+    <Strong>📧EMAIL📧</Strong><br>anjisu2001@naver.com<br><br>
+    <Strong>💪Portfolio💪</Strong><br>
+    <a href="http://jisoo-ahn-portfolio.s3-website.ap-northeast-2.amazonaws.com/"> http://jisoo-ahn-portfolio.s3-website.ap-northeast-2.amazonaws.com/</a>
+</p>
 
 
 ## ⚒️ Tech stack
