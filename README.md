@@ -68,7 +68,7 @@
 |------|---|---|---|---|
 |<a href="https://github.com/An-jisu/Humanity"> OFI </a>|2023.08.26 ~ 2023.09.26|GDG x Whatever|Team|나만의 코디네이터|
 |<a href="https://github.com/An-jisu/Portfolio/tree/master"> Portfolio </a>|2023.10.18 ~ 2023.10.25|토이 프로젝트|Solo|나의 포트폴리오 웹 사이트|
-|<a href="https://github.com/An-jisu/yorijori/tree/master"> Yorijori </a>|2023.08 ~ ing|졸업 프로젝트|Team|여행 루트 앱 생성 프로젝|
+|<a href="https://github.com/An-jisu/yorijori/tree/master"> Yorijori </a>|2023.08 ~ ing|졸업 프로젝트|Team|최적의 여행 루트 생성 프로젝트|
 |<a href="https://github.com/An-jisu/ChemistrAI/tree/master"> ChemistrAI </a>|2023.07.17 ~ 2023.08.04|실리콘벨리 San Jose 프로젝트|Team|화장품 성분 분석 서비스|
 |<a href="https://github.com/bishoe01/UMC_HACKATHON/tree/main/starter"> Syncthon </a>|2023.07.03 ~ 2023.07.04|UMC 해커톤 Syncthon|Team|개발자 협업 환경 세팅 헬핑 서비스|
 |<a href="https://github.com/An-jisu/nwitter"> Nwitter </a>|2023.04.27 ~ 2023.05.10|토이 프로젝트|Solo|React 트위터 클론코딩|
