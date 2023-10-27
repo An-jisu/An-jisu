@@ -54,6 +54,7 @@
 ## 🏃‍♀️ Carrer
 |Type|Date|Name|Organization|
 |------|---|---|-----|
+|활동|2023.09 ~ ing|스프린트 부트캠프|codeit|
 |활동|2023.08 ~ 2023.09|Whatever|GDG campus Korea|
 |활동|2023.07 ~ 2023.08|2023 Summer SVSTIP|SW 중심사업단 (San Jose State University)|
 |동아리|2023.03 ~ 2023.08|UMC 4기(프론트)|컴공선배 너디너리|
@@ -78,9 +79,9 @@
 ## 🏫 Study & Tutoring
 |제목|내용|설명|
 |------|---|---|
+||테스트2|테스트3|
 |테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|C language|테스트2|테스트3|
 
   
 <a href="s">
