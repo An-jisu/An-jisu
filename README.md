@@ -69,19 +69,26 @@
 |------|---|---|---|---|---|
 |<a href="https://github.com/An-jisu/Humanity"> OFI </a>|2023.08.26 ~ 2023.09.26|GDG x Whatever|Team|나만의 코디네이터|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat-square&logo=Styledcomponents&logoColor=white"/>
 |<a href="https://github.com/An-jisu/Portfolio/tree/master"> Portfolio </a>|2023.10.18 ~ 2023.10.25|토이 프로젝트|Solo|나의 포트폴리오 웹 사이트|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat-square&logo=Styledcomponents&logoColor=white"/>
-|<a href="https://github.com/An-jisu/yorijori/tree/master"> Yorijori </a>|2023.08 ~ ing|졸업 프로젝트|Team|최적의 여행 루트 생성 프로젝트|
-|<a href="https://github.com/An-jisu/ChemistrAI/tree/master"> ChemistrAI </a>|2023.07.17 ~ 2023.08.04|실리콘벨리 San Jose 프로젝트|Team|화장품 성분 분석 서비스|
-|<a href="https://github.com/bishoe01/UMC_HACKATHON/tree/main/starter"> Syncthon </a>|2023.07.03 ~ 2023.07.04|UMC 해커톤 Syncthon|Team|개발자 협업 환경 세팅 헬핑 서비스|
-|<a href="https://github.com/An-jisu/nwitter"> Nwitter </a>|2023.04.27 ~ 2023.05.10|토이 프로젝트|Solo|React 트위터 클론코딩|
-|<a href="https://github.com/An-jisu/Netflix_clone_coding"> Netflix_clone_coding </a>|2023.03.31 ~ 2023.04.04|토이 프로젝트|Solo|넷플릭스 메인페이지, 로그인/회원가입 페이지 클론코딩|
-|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|2021.07 ~ 2021.11|토이 프로젝트|Team|학과 커뮤니티|
+|<a href="https://github.com/An-jisu/yorijori/tree/master"> Yorijori </a>|2023.08 ~ ing|졸업 프로젝트|Team|최적의 여행 루트 생성 프로젝트|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat-square&logo=Styledcomponents&logoColor=white"/>
+|<a href="https://github.com/An-jisu/ChemistrAI/tree/master"> ChemistrAI </a>|2023.07.17 ~ 2023.08.04|실리콘벨리 San Jose 프로젝트|Team|화장품 성분 분석 서비스|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwindcss&logoColor=white"/>
+|<a href="https://github.com/bishoe01/UMC_HACKATHON/tree/main/starter"> Syncthon </a>|2023.07.03 ~ 2023.07.04|UMC 해커톤 Syncthon|Team|개발자 협업 환경 세팅 헬핑 서비스| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwindcss&logoColor=white"/>
+|<a href="https://github.com/An-jisu/nwitter"> Nwitter </a>|2023.04.27 ~ 2023.05.10|토이 프로젝트|Solo|React 트위터 클론코딩|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+|<a href="https://github.com/An-jisu/Netflix_clone_coding"> Netflix_clone_coding </a>|2023.03.31 ~ 2023.04.04|토이 프로젝트|Solo|넷플릭스 메인페이지, 로그인/회원가입 페이지 클론코딩|<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|2021.07 ~ 2021.11|토이 프로젝트|Team|학과 커뮤니티|<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+
 
 ## 🏫 Study & Tutoring
-|제목|내용|설명|
-|------|---|---|
-||테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|C language|테스트2|테스트3|
+|language|Contents|Date|
+|---|---|---|
+|<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>|자바스크립트 deep dive 스터디|2023년 2학기|
+|<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>|코딩테스트 스터디|2022년 2학기 ~ ing|
+|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>|C언어 튜터링 (멘토)|2021년 2학기~ 2022년 1학기|
+|<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>|C++ 스터디 (팀장)|2021년 2학기|
+|<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>|Node.js 스터디 (멘티)|2021년 2학기|
+||java 스터디 (멘티)|2021년 1학|
+
+
+
 
   
 <a href="s">
