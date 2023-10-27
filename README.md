@@ -64,17 +64,17 @@
 |대학교|2020.03 ~ 2024.02|휴먼지능정보공학과|상명대학교|
 
 ## 🖥️ Project
-|Link|Date|Content|Subject|
-|------|---|---|---|
-|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|
-|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|
-|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|
-|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|
-|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|
-|<a href="https://github.com/An-jisu/Netflix_clone_coding"> Netflix_clone_coding </a>|테스트2|테스트3|테스트3|
-|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|2021.07 ~ 2021.11|테스트3|테스트3|
+|Link|Date|Content|Type|Subject|
+|------|---|---|---|---|
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|테스트3|
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|테스트3|
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|테스트2|테스트3|테스트3|테스트3|
+|<a href="https://github.com/bishoe01/UMC_HACKATHON/tree/main/starter"> Syncthon </a>|2023.07.03 ~ 2023.07.04|UMC 해커톤 Syncthon|Team|개발자 협업 환경 세팅 헬핑 서비스|
+|<a href="https://github.com/An-jisu/nwitter"> Nwitter </a>|2023.04.27 ~ 2023.05.10|토이 프로젝트|Solo|React 트위터 클론코딩|
+|<a href="https://github.com/An-jisu/Netflix_clone_coding"> Netflix_clone_coding </a>|2023.03.31 ~ 2023.04.04|토이 프로젝트|Solo|넷플릭스 메인페이지, 로그인/회원가입 페이지 클론코딩|
+|<a href="https://github.com/An-jisu/Humanity"> Humanity </a>|2021.07 ~ 2021.11|토이 프로젝트|Team|학과 커뮤니티|
 
-## 🏫 Study $ Tutoring
+## 🏫 Study & Tutoring
 |제목|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
