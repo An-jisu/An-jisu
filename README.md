@@ -50,10 +50,11 @@
 -->
 
 
-## 🏃‍♀️ Carrer
+## 🏃‍♀️ Career
 |Type|Date|Name|Organization|
 |------|---|---|-----|
-|활동|2023.09 ~ ing|스프린트 부트캠프|codeit|
+|활동|2024.03 ~ 2026.01|미국 풀스택 개발자 인턴|Welledlabs|
+|활동|2023.09 ~ 2024.01|스프린트 부트캠프|codeit|
 |활동|2023.08 ~ 2023.09|Whatever|GDG campus Korea|
 |활동|2023.07 ~ 2023.08|2023 Summer SVSTIP|SW 중심사업단 (San Jose State University)|
 |동아리|2023.03 ~ 2023.08|UMC 4기(프론트)|컴공선배 너디너리|
